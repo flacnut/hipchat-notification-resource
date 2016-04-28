@@ -13,16 +13,16 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-debug": "^2.1.2",
     "gulp-diff": "^1.0.0",
     "gulp-eslint": "^2.0.0",
     "gulp-filter": "^4.0.0",
     "gulp-jsbeautifier": "^2.0.2",
     "gulp-util": "^3.0.7",
     "mocha": "^2.4.5",
+    "npm-dependencies-spreadsheet": "0.0.5",
     "rewire": "^2.5.1",
     "should": "^8.2.2",
     "sinon": "^1.17.3",
-    "yargs": "^4.2.0"
+    "yargs": "^4.6.0"
   }
 }
